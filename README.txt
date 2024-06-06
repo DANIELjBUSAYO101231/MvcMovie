@@ -100,6 +100,16 @@ Continuation- WEB APP CREATED W/ VS2022 .NET 7
        Tryingn to figure the error issue with the index. 
 
 
-2024-06-06
-1328
-testing agai.. woring now ?
+2024-06-06  0139 EDT
+Continuation- WEB APP CREATED W/ VS2022 .NET 7
+0145- Completed part 9, which i started when i was home.
+0150- Ran app and it worked proper
+
+0155-Created git repository gave me some sort of headache but i took my time to resesarch on this and i was able to connect the vs22 to the github using some codes on the terminal like git push origin main
+git push origin main
+git fetch origin
+git remote add origin https://YOUR-TOKEN@github.com/DANIELjBUSAYO101231/MvcMovie.git
+and so on..
+
+0410- finished up on my README. Added 5 new movies to the datatbase after i deleted the onnes on the display.
+    Ran the app ad confirmed it worked 
