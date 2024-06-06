@@ -46,11 +46,51 @@ public static class SeedData
                 },
                 new Movie
                 {
+                    Title = "Mr Bean",
+                    ReleaseDate = DateTime.Parse("1986-2-23"),
+                    Genre = "Comedy",
+                    Rating = "R",
+                    Price = 9.99M
+                },
+                new Movie
+                {
                     Title = "Rio Bravo",
                     ReleaseDate = DateTime.Parse("1959-4-15"),
                     Genre = "Western",
                     Rating = "R",
                     Price =3.99M
+                },
+                new Movie
+                {
+                    Title = "Avatar. The Last Airbender",
+                    ReleaseDate = DateTime.Parse("1986-2-23"),
+                    Genre = "ComActionedy",
+                    Rating = "R",
+                    Price = 6.99M
+                },
+                new Movie
+                {
+                    Title = "Under Paris",
+                    ReleaseDate = DateTime.Parse("1986-2-23"),
+                    Genre = "Comedy",
+                    Rating = "R",
+                    Price = 9.99M
+                },
+                new Movie
+                {
+                    Title = "Mr English",
+                    ReleaseDate = DateTime.Parse("1986-2-23"),
+                    Genre = "Comedy",
+                    Rating = "R",
+                    Price = 7.99M
+                },
+                new Movie
+                {
+                    Title = "About Last Night",
+                    ReleaseDate = DateTime.Parse("1986-2-23"),
+                    Genre = "ComeActiondy",
+                    Rating = "R",
+                    Price =8.99M
                 }
             );
             context.SaveChanges();
